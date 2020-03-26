@@ -1,0 +1,25 @@
+{
+  "name": "mes-programmes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annietth/Mes-programmes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annietth/Mes-programmes/issues"
+  },
+  "homepage": "https://github.com/annietth/Mes-programmes#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@storybook/html": "^5.3.17",
+    "babel-loader": "^8.1.0"
+  }
+}
